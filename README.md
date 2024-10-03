@@ -1,7 +1,7 @@
 # Power-BI_02
 Netflix shows Analysis
 
-Netflix Shows Analysis
+
 
 Introduction
 Netflix, a leading streaming service, offers a vast library of content, including TV shows, movies, and documentaries. In this analysis, I am analyzing TV shows and Movie trends.
